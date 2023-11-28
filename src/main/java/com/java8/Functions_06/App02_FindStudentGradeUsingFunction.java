@@ -40,7 +40,7 @@ public class App02_FindStudentGradeUsingFunction {
 
         for(Student s : students){
             System.out.println("Name:"+s.name);
-            System.out.println("Grade:"+f.apply(s));
+            System.out.println("Grade:"+ f.apply(s));
             System.out.println("-------------");
 
         }
