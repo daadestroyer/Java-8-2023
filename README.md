@@ -76,3 +76,12 @@ mention
 
 ### 9. Streams
 
+1. filter --> used to filter data based on condition
+2. map --> used to perform operation and change data on same list/array
+3. count --> used to count data
+4. min --> used to find max in all data
+5. max --> used to find min in all data
+6. sum --> used to sum up all the data 
+7. convertArrayToList --> used to convert array to list
+8. convertListToArray --> used to convert list to array
+
