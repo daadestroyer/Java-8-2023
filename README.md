@@ -84,4 +84,9 @@ mention
 6. sum --> used to sum up all the data 
 7. convertArrayToList --> used to convert array to list
 8. convertListToArray --> used to convert list to array
+9. sorted() --> to sort the list/array
 
+### 10. Collections
+1. how to implement comparable
+2. how to implement comparator
+3. how to implement in java 8
